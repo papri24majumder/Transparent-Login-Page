@@ -1,2 +1,2 @@
 # Transparent-Login-Page
-Created a transparent page using HTML and CSS.
+Created a transparent login page using HTML and CSS.
